@@ -2,8 +2,7 @@
 
 this is the cat game, as well as few other files for reference and basics and stuff
 
-
-look in the cat game folder, all the code i've written are the
+look in the slurpman folder for the cat game, all the code i've written are the
 
 a) Inlcude files (in the include folder)
 
